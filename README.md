@@ -43,6 +43,6 @@ Basicamente e também para todas as linguagens de maneira geral, nós temos algu
 &nbsp;
 ![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-tip-dad-var-con-tip-dad-log-par-pro-com-bas?style=p&label=Bifurcações&labelColor=f9e64f&color=008000 "Total de Bifurcações")
 &nbsp;
-![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-tip-dad-log-par-pro-com-bas?style=p&label=Tamanho&labelColor=f9e64f&color=008000& "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-tip-dad-var-con-tip-dad-log-par-pro-com-bas?style=p&label=Tamanho&labelColor=f9e64f&color=008000& "Tamanho do Repositório")
 &nbsp;
 ![License](https://img.shields.io/github/license/Devsgeeknerd/cla-tip-dad-var-con-tip-dad-log-par-pro-com-bas?style=p&label=Licença&labelColor=f9e64f&color=008000 "Licença do Repositório")
